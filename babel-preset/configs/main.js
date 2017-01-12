@@ -39,6 +39,7 @@ module.exports = {
     'transform-regenerator',
     ['transform-es2015-for-of', { loose: true }],
     require('../transforms/transform-symbol-member'),
+    "transform-exponentiation-operator",
   ]),
   env: {
     development: {

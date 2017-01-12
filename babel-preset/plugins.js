@@ -35,4 +35,5 @@ module.exports = {
   'babel-plugin-transform-react-jsx': require('babel-plugin-transform-react-jsx'),
   'babel-plugin-transform-regenerator': require('babel-plugin-transform-regenerator'),
   'babel-plugin-transform-es2015-for-of': require('babel-plugin-transform-es2015-for-of'),
+  'babel-plugin-transform-exponentiation-operator': require('babel-plugin-transform-exponentiation-operator')
 };
